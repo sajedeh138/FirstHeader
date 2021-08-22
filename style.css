@@ -1,0 +1,11 @@
+div {
+    color: white;
+    background-color: #8a2be2;
+    height: 15vh;
+}
+ul{
+ display: grid;
+    grid-template-columns: 15% 15% 15% 15% 15%;
+    padding-top: 5vh;
+    list-style-type: none;
+}
